@@ -6,6 +6,7 @@
 //класс Game - игровая логика, физика
 //mainwindow.ui - описание графического интерфейса
 //resource.qrc - файл ресурсов (для изображений)
+//arcanoid.pro - основной файл проекта
 
 int main(int argc, char *argv[])
 {
