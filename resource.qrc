@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pictures/background.png</file>
+        <file>pictures/ball.png</file>
+        <file>pictures/block.png</file>
+        <file>pictures/bubble.png</file>
+        <file>sounds/boom.wav</file>
+    </qresource>
+</RCC>
